@@ -51,11 +51,3 @@ ___
 ___
 
 * Information Technology Passport Examination
-* 1st Grade, Official Examination in Computer,   
-     given by the National Association of Commercial High Schools
-* 1st Grade, Official Examination in Word Processor,   
-     given by the National Association of Commercial High Schools
-* 1st Grade, Official Examination in Abacus and Electric Calculator,   
-     given by the National Association of Commercial High Schools
-* 1st Grade, Official Examination in Commercial Economics and Laws,   
-     given by the National Association of Commercial High Schools
