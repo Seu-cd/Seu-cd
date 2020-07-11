@@ -12,11 +12,12 @@ I'm currently studying mainly HTML, CSS, JavaScript and other web-related topics
 
 ___
 
+* Programming
 * Football
 * Japanese rock
 * fashion
 * travel
-* Vtuber
+* Virtual Youtuber
 * anime
 
 # SKILL
