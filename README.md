@@ -2,11 +2,11 @@
 
 ___
 
-Hi, I'm Seu.
+こんにちは、Seuです。
 
-Backend engineer.
+Python中心のバックエンドエンジニアやってます。
 
-Currently, I am studying mainly Python.
+よろしくお願いします。
 
 # HOBBY
 
@@ -26,32 +26,32 @@ ___
 
 * C
 
-  I can do the basics.
+  1年間くらい基礎的なことは勉強しました
 * C#
 
-  development in ASP.NET
+  ASP.NET使って簡単な図書館システムやシフト管理システムを作成しました
 * HTML
 
-  I recently coded from a design comp for the first time.
+  基礎的なことは勉強しました
 * CSS
 
-  I recently learned about Flexbox.
+  Bootstrapを使い始めました
 * JavaScript
 
-  I created a to-do list.
+  タイマーやTodoリストを開発しました
 * Java
 
-  Android : I created a quiz app and a todo list using ListView.
+  Android : リストビューを使用してクイズアプリやTodoリストを開発しました
   
-    Web   : Using Spring boot, I developed a chat application like a line.
+    Web   : Spring bootを使用して、LINEのようなチャットアプリを開発しました
 * Vue.js
 
-  I want to put in the effort to learn.
+  最近触れてないので今後勉強したい
 * Python
 
-  I'm learning to use the kaggle API.
+  kaggle APIを使用しながら勉強しています
 # QUALIFICATION
 
 ___
 
-* Information Technology Passport Examination
+* ITパスポート
