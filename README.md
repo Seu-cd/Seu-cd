@@ -42,6 +42,7 @@ ___
 * Java
 
   Android : I created a quiz app and a todo list using ListView.
+  
     Web   : Using Spring boot, I developed a chat application like a line.
 * Vue.js
 
